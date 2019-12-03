@@ -44,5 +44,5 @@
         :when (= 19690720 output)]
       (+ two (* one 100 ))))
 
-; print solution for part 1
+; print solution for part 2
 (println "Solution part two:" part-two-solution)
